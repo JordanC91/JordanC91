@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JordanC91
-- 👀 I’m interested in learning coding, algorithyms and developement in relation to anything really
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on (no idea so far would love to develope an app)
+- 👀 I’m interested in Ethical hacking and pen testing
+- 🌱 I’m currently learning Python and Ruby
+- 💞️ I’m looking to collaborate on anything, just looking to expand skills.
 - 📫 How to reach me? email adress if you want to help or teach me
 
 - email: jordan.clackum91@outlook.com
