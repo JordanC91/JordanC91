@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordanC91
 - 👀 I’m interested in Ethical hacking and pen testing
-- 🌱 I’m currently learning Python and Ruby
+- 🌱 I’m currently learning Python scripting and Kali/Parrot
 - 💞️ I’m looking to collaborate on anything, just looking to expand skills.
 - 📫 How to reach me? email adress if you want to help or teach me
 
